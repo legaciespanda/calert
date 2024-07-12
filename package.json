@@ -1,0 +1,18 @@
+{
+  "name": "code-alert",
+  "version": "1.0.0",
+  "description": "CodeAlert - Stay ahead of the game with CodeAlert: instant Telegram notifications for every new product on CodeCanyon. Never miss out on the latest digital innovations!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ernest Obot - blockchaintek",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "log-timestamp": "^0.3.0",
+    "node-schedule": "^2.1.1",
+    "node-telegram-bot-api": "^0.66.0",
+    "puppeteer": "^22.10.0"
+  }
+}
